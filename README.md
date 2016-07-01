@@ -17,6 +17,7 @@ woow - wo[rkfl]ow system
 - http://www.graphviz.org/content/dot-language
 - https://en.wikipedia.org/wiki/Flowchart
 - https://en.wikipedia.org/wiki/DOT_(graph_description_language)
+- https://github.com/jakesgordon/javascript-state-machine
 
 
 ## Graph
